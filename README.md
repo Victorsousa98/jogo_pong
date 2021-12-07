@@ -37,6 +37,8 @@ Jogo recriado utilizando as seguintes ferramentas:
 
 - adicionei movimentos automatico na raquete do oponete
 - adicionei placar
+- Estilizei Placar
+- adicionei sons de raquetada, pontos e trilha sonora
 
 ## :floppy_disk: Execução:
 
