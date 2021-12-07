@@ -92,9 +92,16 @@ function movimentaRaqueteOponente() {
 
 //funções placar
 function incluiPlacar(){
+  textAlign(CENTER)
+  textSize(20)
+  fill(color(255, 140, 0))
+  rect(150, 10, 40, 20)
   fill(255)
-  text(meusPontos, 278, 26);
-  text(pontosDoOponente, 321, 26);
+  text(meusPontos, 170, 28);
+  fill(color(255, 140, 0))
+  rect(450, 10, 40, 20)
+  fill(255)
+  text(pontosDoOponente, 470, 28);
 }
 
 function marcaPonto(){
